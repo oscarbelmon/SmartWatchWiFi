@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidWearWiFiTest</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="conectar">Conectar</string>
+    <string name="desconectar">Desconectar</string>
+    <string name="enviarMensaje">Enviar mensaje</string>
+    <string name="comprobarConexion">Comprobar conexión</string>
+    <string name="leerWifi">Leer WiFi</string>
+</resources>
